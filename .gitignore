@@ -4,6 +4,9 @@ web.config
 # ignore all config.core.php
 config.core.php
 
+# ignore all error.log
+error.log
+
 # ignore all compressed js and css
 *-min.css
 *-min.js
