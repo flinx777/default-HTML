@@ -8,7 +8,7 @@
 
 <?php include 'assets/templates/project-name/modx/chunks/header.php'; ?>
 
-	<div class="container">
+	<div role="main" class="container">
 
         <!-- Add your site or application content here -->
         <p>Hello world!</p>
